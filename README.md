@@ -1,4 +1,4 @@
-# Upscale Image - Mejorador de Imágenes con IA
+# Upscale Image
 
 Script en Python para mejorar la definición de imágenes usando el modelo **Real-ESRGAN** (Real Enhanced Super-Resolution GAN).
 
