@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# Imágenes de prueba
+test_*.jpg
+test_*.png
+*_hd.jpg
+*_hd.png
+
+# OS
+.DS_Store
+Thumbs.db
